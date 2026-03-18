@@ -59,7 +59,9 @@ const styles = StyleSheet.create({
         width: 35,
         height: 35,
         borderRadius: 17.5, 
-        marginRight: 10
+        marginRight: 10,
+        borderWidth: 2,           
+        borderColor: 'green',
     },
     nomePerfil: {
         fontWeight: 'bold',
