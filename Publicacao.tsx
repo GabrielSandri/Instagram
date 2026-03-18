@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     fotoPerfil: {
         width: 35,
         height: 35,
-        borderRadius: 17.5, // Faz a foto ficar circular
+        borderRadius: 17.5, 
         marginRight: 10
     },
     nomePerfil: {
@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     },
     fotoPost: {
         width: '100%',
-        aspectRatio: 1, // Mantém a foto quadrada
+        aspectRatio: 1, 
     },
     areaInteracao: {
         padding: 10
